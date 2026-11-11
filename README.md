@@ -34,4 +34,5 @@ This project was created by MAPP Metabolomics Unit.
 Contact: pierre-marie.allard@unifr.ch
 
 
-Download link: https://www.swisstransfer.com/dl/01a1a619-b67b-71a9-885f-4b343be96b0c
+Download link C18 pos: https://www.swisstransfer.com/dl/01a1ca5d-9eaa-706a-8b5e-ce990f00e032
+Download link HILICI pos: https://www.swisstransfer.com/dl/01a1ca5f-90fc-71da-b384-3266687a394f
