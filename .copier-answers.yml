@@ -1,16 +1,16 @@
 _commit: 0.3.0
 _src_path: https://github.com/mapp-metabolomics-unit/mapp-repo-copier-template.git
-author: MAPP Metabolomics Unit
-common_filename_pattern: '*20261030*.mzML'
+common_filename_pattern: '*20261104*.mzML'
 email: pierre-marie.allard@unifr.ch
 gap_filling: true
 git_repo_path: /home/allardpm/git_repos/mapp-metabolomics-unit
 github_username: commons-teaching
 gnps_job_id: ''
 ionization_mode: positive
-mapp_batch: mapp_batch_000284
-mapp_batch_description: Untargeted metabolomics of bacteria exposed to uv
-mapp_project: mapp_project_000050
+mapp_batch: mapp_batch_00285
+mapp_batch_description: Untargeted metabolomics of bacteria exposed to uv - HILIC
+    Pos
+mapp_project: mapp_project_00050
 noise_level: 500000.0
 repository_name: sa2026-uv
 short_description: MAPP metabolomics project repository
@@ -21,7 +21,7 @@ recorded_repository_name: "sa2026-uv"
 recorded_author: "MAPP Metabolomics Unit"
 recorder_email: "pierre-marie.allard@unifr.ch"
 recorded_github_username: "commons-teaching"
-recorded_mapp_project: "mapp_project_000050"
-recorded_mapp_batch: "mapp_batch_000284"
+recorded_mapp_project: "mapp_project_00050"
+recorded_mapp_batch: "mapp_batch_00285"
 
 

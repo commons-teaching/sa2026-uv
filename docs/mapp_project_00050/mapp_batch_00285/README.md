@@ -1,6 +1,6 @@
-# mapp_batch_000284
+# mapp_batch_00285
 
-Untargeted metabolomics of bacteria exposed to uv
+Untargeted metabolomics of bacteria exposed to uv - HILIC Pos
 
 ## Folders
 
