@@ -496,7 +496,7 @@
     </batchstep>
     <batchstep method="io.github.mzmine.modules.visualization.projectmetadata.io.ProjectMetadataExportModule" module_name="Project metadata export" parameter_version="1">
         <parameter name="Metadata file">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_metadata.csv</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_metadata.csv</current_file>
         </parameter>
         <parameter name="Format">Default</parameter>
     </batchstep>
@@ -504,7 +504,7 @@
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Row selection">all_major_ions</parameter>
         <parameter name="Filename">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_full_feature_table.csv</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_full_feature_table.csv</current_file>
         </parameter>
         <parameter name="Field separator" selected="comma"/>
         <parameter name="Identification separator">;</parameter>
@@ -514,7 +514,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_gnps.fbmn.GnpsFbmnExportAndSubmitModule" module_name="Export molecular networking files (e.g., GNPS, FBMN, IIMN, MetGem)" parameter_version="3">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_iimn_gnps.mgf</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_iimn_gnps.mgf</current_file>
         </parameter>
         <parameter name="Filter rows">MS2 OR ION IDENTITY</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="simple_merged">
@@ -558,7 +558,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_sirius.SiriusExportModule" module_name="Export for SIRIUS" parameter_version="2">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_sirius.mgf</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_sirius.mgf</current_file>
         </parameter>
         <parameter name="Intensity normalization" scientific="true">no_normalization</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="input_scans">
@@ -606,7 +606,7 @@
     </batchstep>
     <batchstep method="io.github.mzmine.modules.batchmode.autosave.AutoSaveBatchModule" module_name="Save current batch" parameter_version="1">
         <parameter name="Save batch to" selected="true">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_batch.mzbatch</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/sa2026-uv/docs/mapp_project_00050/mapp_batch_00285/results/mzmine/mapp_batch_00285_batch.mzbatch</current_file>
         </parameter>
     </batchstep>
 </batch>

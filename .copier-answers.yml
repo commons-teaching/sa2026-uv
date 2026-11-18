@@ -3,9 +3,9 @@ _src_path: https://github.com/mapp-metabolomics-unit/mapp-repo-copier-template.g
 common_filename_pattern: '*20261104*.mzML'
 email: pierre-marie.allard@unifr.ch
 gap_filling: true
-git_repo_path: /home/allardpm/git_repos/mapp-metabolomics-unit
+git_repo_path: /Users/pma/git_repos/mapp-metabolomics-unit
 github_username: commons-teaching
-gnps_job_id: ''
+gnps_job_id: 0d6fdd7d58594c13a61502805614e5b0
 ionization_mode: positive
 mapp_batch: mapp_batch_00285
 mapp_batch_description: Untargeted metabolomics of bacteria exposed to uv - HILIC
