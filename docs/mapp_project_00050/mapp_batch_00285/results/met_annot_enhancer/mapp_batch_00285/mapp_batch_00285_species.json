@@ -1,0 +1,186 @@
+{
+  "context": "Bacteria",
+  "governing_code": "ICNP",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "bacillus subtilis",
+    "bacillus cereus",
+    "cupriavidus metallidurans"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Bacillus subtilis",
+          "nomenclature_code": "ICNP",
+          "score": 1.0,
+          "search_string": "bacillus subtilis",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bacillus subtilis",
+            "ott_id": 1084928,
+            "rank": "species",
+            "source": "ott3.7draft3",
+            "synonyms": [
+              "Arthrobacter sp. CHR2P1B1-M",
+              "Bacillus natto",
+              "Bacillus sp. 10405",
+              "Bacillus sp. 15:2",
+              "Bacillus sp. AECSB01",
+              "Bacillus sp. AECSB04",
+              "Bacillus sp. AECSB05",
+              "Bacillus sp. AECSB06",
+              "Bacillus sp. AECSB07",
+              "Bacillus sp. AECSB08",
+              "Bacillus sp. AECSB12",
+              "Bacillus sp. AECSB13",
+              "Bacillus sp. AECSB14",
+              "Bacillus sp. BS4(2013)",
+              "Bacillus sp. BS9(2013)",
+              "Bacillus sp. BV3",
+              "Bacillus sp. BV5",
+              "Bacillus sp. HE08",
+              "Bacillus sp. JKR21",
+              "Bacillus sp. LB002",
+              "Bacillus sp. LKM-BL",
+              "Bacillus sp. PW16b",
+              "Bacillus sp. PW19",
+              "Bacillus sp. RSP-GLU",
+              "Bacillus sp. S2 BC-1",
+              "Bacillus sp. SWI06",
+              "Bacillus sp. UMX-03",
+              "Bacillus uniflagellatus",
+              "Brevibacillus sp. BHR3P2B5-M",
+              "Vibrio subtilis"
+            ],
+            "tax_sources": [
+              "silva:EF101721",
+              "ncbi:1423",
+              "worms:422813",
+              "gbif:5428098",
+              "irmng:10830088"
+            ],
+            "unique_name": "Bacillus subtilis"
+          }
+        }
+      ],
+      "name": "bacillus subtilis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Bacillus cereus",
+          "nomenclature_code": "ICNP",
+          "score": 1.0,
+          "search_string": "bacillus cereus",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bacillus cereus",
+            "ott_id": 5284557,
+            "rank": "species",
+            "source": "ott3.7draft3",
+            "synonyms": [
+              "Bacillus endorhythmos",
+              "Bacillus medusa",
+              "Bacillus sp. 2479",
+              "Bacillus sp. BHR3P2B3-M",
+              "Bacillus sp. BS2(2013b)",
+              "Bacillus sp. BV4",
+              "Bacillus sp. JKR50",
+              "Bacillus sp. JKR62",
+              "Bacillus sp. JP44SK22",
+              "Bacillus sp. JP44SK37",
+              "Bacillus sp. JP44SK43",
+              "Bacillus sp. JP44SK45",
+              "Bacillus sp. JSG1(2014)",
+              "Bacillus sp. JUB018",
+              "Bacillus sp. KER 17",
+              "Bacillus sp. MZ-01",
+              "Bacillus sp. NCIM 2106",
+              "Bacillus sp. NCIM 2217",
+              "Bacillus sp. NCIM 2461",
+              "Bacillus sp. PXDK-1",
+              "Bacillus sp. Pf-1",
+              "Bacillus sp. V3",
+              "Bacillus sp. mmm86"
+            ],
+            "tax_sources": [
+              "silva:JX448404",
+              "ncbi:1396",
+              "gbif:5428132",
+              "irmng:10034225"
+            ],
+            "unique_name": "Bacillus cereus"
+          }
+        }
+      ],
+      "name": "bacillus cereus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cupriavidus metallidurans",
+          "nomenclature_code": "ICNP",
+          "score": 1.0,
+          "search_string": "cupriavidus metallidurans",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cupriavidus metallidurans",
+            "ott_id": 652422,
+            "rank": "species",
+            "source": "ott3.7draft3",
+            "synonyms": [
+              "Alcaligenes eutrophus CH34",
+              "Ralstonia eutropha CH34",
+              "Ralstonia metallidurans",
+              "Ralstonia sp. CH34",
+              "Wautersia metallidurans"
+            ],
+            "tax_sources": [
+              "silva:AB376622",
+              "ncbi:119219",
+              "gbif:3219996",
+              "irmng:10973749",
+              "irmng:11166608"
+            ],
+            "unique_name": "Cupriavidus metallidurans"
+          }
+        }
+      ],
+      "name": "cupriavidus metallidurans"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft3",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "bacillus subtilis",
+    "bacillus cereus",
+    "cupriavidus metallidurans"
+  ],
+  "unmatched_names": []
+}
