@@ -32,3 +32,6 @@ Repository initiated with [mapp-metabolomics-unit/mapp-repo-copier-template](htt
 This project was created by MAPP Metabolomics Unit.
 
 Contact: pierre-marie.allard@unifr.ch
+
+--- 
+FBMN https://gnps2.org/status?task=0d6fdd7d58594c13a61502805614e5b0
