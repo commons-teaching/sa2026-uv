@@ -1,45 +1,39 @@
-filename
-20261104_CVOL_bk_post_01.mzML
-20261104_CVOL_bk_post_02.mzML
-20261104_CVOL_bk_pre_01.mzML
-20261104_CVOL_bk_pre_02.mzML
-20261104_CVOL_CHP14_1.mzML
-20261104_CVOL_CHP14_2.mzML
-20261104_CVOL_CHP14_3.mzML
-20261104_CVOL_CHP14_4.mzML
-20261104_CVOL_CHP14_UV_1.mzML
-20261104_CVOL_CHP14_UV_2.mzML
-20261104_CVOL_CHP14_UV_3.mzML
-20261104_CVOL_CHP14_UV_4.mzML
-20261104_CVOL_PID6_1.mzML
-20261104_CVOL_PID6_2.mzML
-20261104_CVOL_PID6_3.mzML
-20261104_CVOL_PID6_4.mzML
-20261104_CVOL_PID6_UV_1.mzML
-20261104_CVOL_PID6_UV_2.mzML
-20261104_CVOL_PID6_UV_3.mzML
-20261104_CVOL_PID6_UV_4.mzML
-20261104_CVOL_Simone_blank_UV.mzML
-20261104_CVOL_Simone_blank.mzML
-20261104_CVOL_Simone_QC_01.mzML
-20261104_CVOL_Simone_QC_02.mzML
-20261104_CVOL_Simone_QC_03.mzML
-20261104_CVOL_Simone_QC_04.mzML
-20261104_CVOL_Simone_QC_05.mzML
-20261104_CVOL_Simone_QC_06.mzML
-20261104_CVOL_Simone_QC_07.mzML
-20261104_CVOL_Simone_QC_08.mzML
-20261104_CVOL_SOP8_1.mzML
-20261104_CVOL_SOP8_2.mzML
-20261104_CVOL_SOP8_3.mzML
-20261104_CVOL_SOP8_4.mzML
-20261104_CVOL_SOP8_UV_1.mzML
-20261104_CVOL_SOP8_UV_2.mzML
-20261104_CVOL_SOP8_UV_3.mzML
-20261104_CVOL_SOP8_UV_4.mzML
-20261106_CVOL_bk_mapp_post_01.mzML
-20261106_CVOL_bk_pre_01.mzML
-20261106_CVOL_bk_pre_02.mzML
-20261106_CVOL_Simone_QC_01.mzML
-20261106_CVOL_Simone_QC_02.mzML
-20261106_CVOL_Simone_QC_03.mzML
+filename	sample_type	ATTRIBUTE_UV	ATTRIBUTE_strain	ATTRIBUTE_source_taxon
+20261104_CVOL_bk_post_01.mzML	blank	NA	NA	NA
+20261104_CVOL_bk_post_02.mzML	blank	NA	NA	NA
+20261104_CVOL_bk_pre_01.mzML	blank	NA	NA	NA
+20261104_CVOL_bk_pre_02.mzML	blank	NA	NA	NA
+20261106_CVOL_bk_mapp_post_01.mzML	blank	NA	NA	NA
+20261106_CVOL_bk_pre_01.mzML	blank	NA	NA	NA
+20261106_CVOL_bk_pre_02.mzML	blank	NA	NA	NA
+20261104_CVOL_Simone_QC_01.mzML	QC	NA	NA	NA
+20261104_CVOL_Simone_QC_02.mzML	QC	NA	NA	NA
+20261106_CVOL_Simone_QC_01.mzML	QC	NA	NA	NA
+20261106_CVOL_Simone_QC_02.mzML	QC	NA	NA	NA
+20261106_CVOL_Simone_QC_03.mzML	QC	NA	NA	NA
+20261104_CVOL_CHP14_1.mzML	sample	no	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_2.mzML	sample	no	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_3.mzML	sample	no	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_4.mzML	sample	no	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_UV_1.mzML	sample	yes	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_UV_2.mzML	sample	yes	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_UV_3.mzML	sample	yes	chp14	Bacillus subtilis
+20261104_CVOL_CHP14_UV_4.mzML	sample	yes	chp14	Bacillus subtilis
+20261104_CVOL_PID6_1.mzML	sample	no	pid6	Bacillus cereus
+20261104_CVOL_PID6_2.mzML	sample	no	pid6	Bacillus cereus
+20261104_CVOL_PID6_3.mzML	sample	no	pid6	Bacillus cereus
+20261104_CVOL_PID6_4.mzML	sample	no	pid6	Bacillus cereus
+20261104_CVOL_PID6_UV_1.mzML	sample	yes	pid6	Bacillus cereus
+20261104_CVOL_PID6_UV_2.mzML	sample	yes	pid6	Bacillus cereus
+20261104_CVOL_PID6_UV_3.mzML	sample	yes	pid6	Bacillus cereus
+20261104_CVOL_PID6_UV_4.mzML	sample	yes	pid6	Bacillus cereus
+20261104_CVOL_Simone_blank_UV.mzML	sample	yes	NA	NA
+20261104_CVOL_Simone_blank.mzML	sample	no	NA	NA
+20261104_CVOL_SOP8_1.mzML	sample	no	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_2.mzML	sample	no	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_3.mzML	sample	no	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_4.mzML	sample	no	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_UV_1.mzML	sample	yes	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_UV_2.mzML	sample	yes	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_UV_3.mzML	sample	yes	sop8	Cupriavidus metallidurans
+20261104_CVOL_SOP8_UV_4.mzML	sample	yes	sop8	Cupriavidus metallidurans
